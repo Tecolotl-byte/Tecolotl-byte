@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Risk @ JP working on python for quantitative finance basics, with a specific focus on the mechanics of futures markets.   
+
+
+
 <!--
 **Tecolotl-byte/Tecolotl-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

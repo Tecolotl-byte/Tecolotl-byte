@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Risk @ JP working on python for quantitative finance basics, with a specific focus on the mechanics of futures markets.   
+- Risk @ JP working with python for quantitative finance basics, with a specific focus on the mechanics of futures markets.   
 
 
 
